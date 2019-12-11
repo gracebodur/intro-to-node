@@ -2,4 +2,3 @@
 READ.md Welcome to my project!
 .env NODE_ENV=development
 index.js console.log('Hello, world!')
-
